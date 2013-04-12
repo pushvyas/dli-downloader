@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" name="Default" comment="misc">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    </list>
+    <ignored path="DLIDownloader.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/DLIDownloader.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365733570820" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365693389960" ignored="false" />
+    <file path="/fragment.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365777957065" ignored="false" />
+    <file path="/pom.xml" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365780285044" ignored="false" />
+    <file path="/TiffToPDF.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365693995490" ignored="false" />
+    <file path="/RunningTaskTableModel.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365733687786" ignored="false" />
+    <file path="/DLIWindow.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365741176482" ignored="false" />
+    <file path="/a.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365736770789" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365737534673" ignored="false" />
+    <file path="/BarCodeInterpreter.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365737664342" ignored="false" />
+    <file path="/TestJsoup.java" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365778158939" ignored="false" />
+    <file path="/Dummy.txt" changelist="a7ead2d8-03e7-43d5-baeb-8583932b2a8b" time="1365782796924" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CommittedChangesCache">
+    <option name="refreshEnabled" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="USE_COMPILE_SERVER" value="false" />
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/BarCodeInterpreter.java" line="31" class="org.shunya.dli.BarCodeInterpreter" package="org.shunya.dli">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="DLIDownloader" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DLIWindow.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/DLIWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="142" column="123" selection-start="5854" selection-end="5854" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#6731#6948#0" expanded="true" />
+                <element signature="e#6933#6934#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TiffToPDF.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/TiffToPDF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="3" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="80" selection-start="2406" selection-end="2406" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TiffToPDFTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/shunya/dli/TiffToPDFTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="5" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TapTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/shunya/dli/TapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="21" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0745614">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BarCodeInterpreter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/BarCodeInterpreter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="25" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/DLIDownloader/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/shunya/dli/PageSpread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/shunya/dli/HttpDownloadWorker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/shunya/dli/TapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/shunya/dli/TiffToPDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/shunya/dli/DLIDownloader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/shunya/dli/RunningTaskTableModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/shunya/dli/BarCodeInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/shunya/dli/TestJsoup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/shunya/dli/DLIWindow.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/shunya/dli/TiffToPDFTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\installs\apache-maven-3.0.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DLIDownloader" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DLIDownloader" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DLIDownloader" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jar" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DLIDownloader" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="install" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DLIDownloader" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="assembly" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DLIDownloader" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Finalization issues</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="2" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DLIDownloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DLIDownloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DLIDownloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DLIDownloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DLIDownloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/org/shunya/dli" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.shunya.dli" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\DLIDownloader\src\main\java\org\shunya\dli" />
+      <recent name="D:\workspace\DLIDownloader\src\main\java\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\DLIDownloader\src\main\resources\images" />
+      <recent name="D:\workspace\DLIDownloader\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree">
+    <UpdateInfo date="Moments ago" ActionInfo="_Update">
+      <UpdatedFiles>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated from server" />
+          <option name="myStatusName" value="Changed on server" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CHANGED_ON_SERVER" />
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Updated" />
+            <option name="myStatusName" value="Changed" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="UPDATED" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Created" />
+            <option name="myStatusName" value="Created" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="CREATED" />
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\branches</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\PowerManager.iml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\PowerControlServiceTest.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\interview</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\interview\PlatformDesignerTest.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\interview\dli</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\interview\dli\BarCodeInterpreterTest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\interview\dli\PageSpreadTest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\interview\BucketSortTest.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\utils</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\utils\FTLGeneratorTest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\utils\Loopy.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\utils\Test.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\utils\MyHashArrayTest.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\dao</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\dao\MachineDaoServiceTest.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\rest</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\rest\MachineScheduleResourceTest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\rest\MachineResourceTest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\rest\PowerResourceTest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\rest\AbstractTestCase.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\NetworkServiceTest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\test\java\org\shunya\power\LocalJettyRunnerTest.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\ApplicationContext.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\Constants.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\Anagrams.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\BucketSort.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\StringConcatenation.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dm</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dm\ProgressRenderer.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dm\Download.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dm\DownloadsTableModel.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dm\DownloadManager.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\UnModifiableCollection.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\BigDecimalForCurrency.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\ThreadInterrupt.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\AtomicFloat.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\IntegerSwap.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\RandomGenerator.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\SortedArrayToBST.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\Money.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design2</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design2\Vehicle.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design2\ParkingSlotSize.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design2\VehicleType.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\DropRequest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\PickRequestButton.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\Elevator.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\PickRequest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\Controller.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\ElevatorRequestManager.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\ShortestFirstAlgo.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\RequestSchedulingAlgo.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\DropRequestButton.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\ElevatorRequest.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design6\RequestButton.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\MutableHashKey.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\MyHashArray.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\MyMaths.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design3</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design3\EmployeeVisitor.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design3\Employee.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design3\VisitorElement.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design3\Company.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design7</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design7\PrefixTree.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\PDFConverter.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\TopOccurrence.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\ClassWeakHashMap.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4\Deposit.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4\Transaction.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4\Account.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4\BalanceInquiry.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4\Withdrawal.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4\CurrentAccount.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design4\SavingAccount.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design8</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design8\TaskResolver.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design8\Node.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\DoubleForCurrency.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\BitWiseOps.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\TimedExecution.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1\Steel.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1\Desk.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1\Oak.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1\FurnitureFactory.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1\Material.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1\Chair.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design1\Furniture.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\StackUsingNode.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\Transaction.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\Publication.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\User.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\ReturnTrx.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\Book.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\LibManager.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\Journal.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\RenewBook.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\BorrowTrx.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\BorrowedRecord.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\Magazine.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design5\InventoryManager.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\QueueUsingNode.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design9</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design9\TimeSpread.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design9\TimeSpread2.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\NonBlockingTradeUpdate.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\SingleLinkedList.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\ProduceConcurrentModification.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design10</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design10\AsynchronousLog.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\design10\ILog.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\AtomicDoubleUpdater.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\ClassPhantom.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\ClassWeak.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\MyPow.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\MultiplyBy7.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\RemoveViaIterator.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\DeadLock.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\RunningTaskTableModel.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\DownloadObserver.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\HttpDownloadWorker.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\BarCodeInterpreter.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\NIODownloader.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\InteractiveTask.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\DLIDownloader.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\GUIUtils.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\RunState.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\Downloader.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\BufferedDownloader.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\DLIDownloadManager.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\PageSpread.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\Test.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\dli\DLIWindow.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\OddNumberProblem.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\BoundedHashSet.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\ProducerConsumerProblem.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\Foo.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\ClassSoft.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\PlatformDesigner.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\interview\Factorial.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\UserService.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\UserServiceImpl.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\NotImplementedException.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\Deadlock.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\UserDao.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\UserDaoImpl.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\DownloadManager.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\RestfulAction.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\GenericDao.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\GenericDaoImpl.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\FileStorageSessionFacade.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\ProgressRenderer.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\AbstractSessionFacade.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\Download.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\DownloadsTableModel.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\FileServlet.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\utils\FTLGenerator.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\PowerControllable.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\JPASessionFactory.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\SessionCache.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\JPATransatomatic.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\MachineDaoService.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\JPATestTransatomatic.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\AbstractCatalogue.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\Transatomatic.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\ThreadLocalSession.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\dao\MachineCatalogue.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\PowerControlService.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity\PowerAction.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity\MachineGroup.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity\Machine.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity\Schedule.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity\MachineBuilder.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity\ScheduleBuilder.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\entity\MachineGroupBuilder.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\AbstractResource.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\MachineScheduleResource.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\FreemarkerViewProcessor1.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\SchedulerServletContextListener.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\FreemarkerViewProcessor.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\MachineResource.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\PowerResource.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\rest\ViewResource.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\SchedulerService.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\NetworkService.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\WakeOnLan.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\WOL.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\LocalJettyRunner.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets\ViewServlet.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets\SessionFilter.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets\ErrorServlet.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets\DynamicImage.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets\NoCacheFilter.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets\ShowHeaders.java</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\java\org\shunya\power\servlets\LoggingFilter.java</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\logback.xml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\META-INF</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\META-INF\persistence.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\logback-test.xml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\added.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\contact.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\add.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\all.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\index.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\addSchedule.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\allSchedule.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\login.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\common.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\footer.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\about.ftl</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\resources\ftl\header.ftl</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\img</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\img\green.jpg</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\index.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\WEB-INF</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\WEB-INF\web.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\favicon.ico</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\index.jsp</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\img</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\img\glyphicons-halflings-white.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\img\glyphicons-halflings.png</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-popover.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-tab.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\server.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-popover.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-tab.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-tooltip.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-transition.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-affix.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-button.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-dropdown.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-scrollspy.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-carousel.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-modal.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-phantom.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-alert.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-collapse.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\unit\bootstrap-typeahead.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\index.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\vendor</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\vendor\qunit.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\vendor\jquery.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\vendor\qunit.css</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\tests\phantom.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-tooltip.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-transition.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-affix.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-button.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-dropdown.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-scrollspy.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-carousel.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-modal.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-alert.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-collapse.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\.jshintrc</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\js\bootstrap-typeahead.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\tables.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\wells.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\thumbnails.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\tooltip.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\dropdowns.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\responsive-767px-max.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\modals.less</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\tests</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\tests\css-tests.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\tests\navbar.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\tests\forms.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\tests\css-tests.css</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\alerts.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\responsive-navbar.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\hero-unit.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\variables.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\responsive-utilities.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\responsive.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\navs.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\bootstrap.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\popovers.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\scaffolding.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\navbar.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\sprites.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\responsive-1200px-min.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\pager.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\buttons.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\component-animations.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\grid.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\labels-badges.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\responsive-768px-979px.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\type.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\close.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\carousel.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\progress-bars.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\pagination.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\button-groups.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\reset.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\layouts.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\forms.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\code.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\mixins.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\breadcrumbs.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\utilities.less</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\less\accordion.less</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\getting-started.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\base-css.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\css</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\css\docs.css</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\css\bootstrap.css</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\css\bootstrap-responsive.css</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\glyphicons-halflings-white.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\grid-baseline-20px.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\bootstrap-mdo-sfmoma-01.jpg</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\bootstrap-mdo-sfmoma-02.jpg</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\responsive-illustrations.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\bootstrap-mdo-sfmoma-03.jpg</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\glyphicons-halflings.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\less-logo-large.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\bs-docs-masthead-pattern.png</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\example-sites</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\example-sites\kippt.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\example-sites\jshint.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\example-sites\fleetio.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\example-sites\soundready.png</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\examples</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\examples\bootstrap-example-starter.jpg</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\examples\bootstrap-example-fluid.jpg</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\examples\bootstrap-example-hero.jpg</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\bs-docs-responsive-illustrations.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\bs-docs-bootstrap-features.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\img\bs-docs-twitter-github.png</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\ico</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\ico\apple-touch-icon-144-precomposed.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\ico\apple-touch-icon-72-precomposed.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\ico\apple-touch-icon-114-precomposed.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\ico\apple-touch-icon-57-precomposed.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\ico\favicon.ico</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-alert.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-tab.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-collapse.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-tooltip.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\jquery.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\google-code-prettify</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\google-code-prettify\prettify.css</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\google-code-prettify\prettify.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-scrollspy.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-typeahead.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\README.md</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-carousel.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-transition.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-modal.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-popover.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-affix.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-button.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap.min.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\application.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\assets\js\bootstrap-dropdown.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\components.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\customize.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\index.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\examples</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\examples\starter-template.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\examples\fluid.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\examples\hero.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\components.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\customize.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\index.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\javascript.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\scaffolding.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\extend.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\getting-started.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\pages\base-css.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\templates\layout.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\javascript.html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\scaffolding.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\package.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\index.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\.bin</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\.bin\hulk</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\package.json</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\wrappers</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\wrappers\amd.js.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\wrappers\mustache.js.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\wrappers\common.js.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\wrappers\js.mustache</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\LICENSE</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\index.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\index.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\templates</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\templates\list.mustache</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\html</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\html\list.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\Changes</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\Rakefile</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\TESTING.md</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\README.md</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\inverted.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\comments.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\interpolation.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\partials.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\delimiters.yml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\sections.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\sections.yml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\~lambdas.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\~lambdas.yml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\delimiters.json</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\partials.yml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\comments.yml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\interpolation.yml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec\specs\inverted.yml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\spec.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\test\mustache.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\.gitmodules</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\1.0.0</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\1.0.0\hogan.min.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\1.0.0\hogan.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.0</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.0\hogan.min.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.0\hogan.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.3</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.3\hogan.min.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.3\hogan.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\template-1.0.5.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.amd.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.common.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.min.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.mustache.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.min.common.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\template-1.0.5.min.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.min.amd.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\builds\1.0.5\hogan-1.0.5.min.mustache.js</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\stylesheets</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\stylesheets\skeleton.css</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\stylesheets\layout.css</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\images</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\images\stripes.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\images\noise.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\images\logo.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\images\small-hogan-icon.png</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\favicon.ico</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\web\index.html.mustache</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\lib</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\lib\compiler.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\lib\hogan.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\lib\template.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\README.md</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\bin</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\bin\hulk</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\Makefile</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\tools</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\tools\release.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\tools\web_templates.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\build\node_modules\hogan.js\.git_ignore</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\bootstrap\docs\extend.html</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\jquery</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\jquery\jquery-1.8.2.js</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\src\main\webapp\poweredby_ffffff.png</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\compiler.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\uiDesigner.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\ant.xml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\copyright</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\copyright\profiles_settings.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\vcs.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\misc.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\dataSources.xml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_jersey_jersey_core_1_16.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\all_lib.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_jersey_jersey_servlet_1_16.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_http_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_codehaus_jackson_jackson_xc_1_9_2.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_io_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_freemarker_freemarker_2_3_19.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_1.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__xerces_xercesImpl_2_10_0.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_xml_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__javax_xml_bind_jaxb_api_2_2_2.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__javax_xml_stream_stax_api_1_0_2.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\misc.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_codehaus_jettison_jettison_1_1.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__javax_activation_activation_1_1.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_jersey_contribs_jersey_multipart_1_16.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_util_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__xml_apis_xml_apis_1_4_01.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_codehaus_jackson_jackson_jaxrs_1_9_2.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_jvnet_mimepull_1_6.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_3.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_continuation_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_jersey_jersey_client_1_16.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_jersey_jersey_json_1_16.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_webapp_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\jwebunit.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__junit_junit_4_9.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_security_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_jersey_contribs_jersey_freemarker_1_16.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__asm_asm_3_1.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__com_sun_jersey_jersey_server_1_16.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_server_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\annotations.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\libraries\Maven__org_eclipse_jetty_jetty_servlet_8_1_7_v20120910.xml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\scopes</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\scopes\scope_settings.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\codeStyleSettings.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\modules.xml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\dictionaries</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\dictionaries\MUNISH.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\dictionaries\Munish.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\dataSources.ids</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\inspectionProfiles</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\inspectionProfiles\profiles_settings.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\inspectionProfiles\Project_Default.xml</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\artifacts</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\artifacts\PowerManager_war.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\artifacts\PowerManager_war_exploded.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\encodings.xml</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\.idea\.name</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\commons-io-2.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jsch-0.1.46.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\commons-lang-2.4.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\gson</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\gson\gson-2.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\gson\json-lib-2.4-jdk15.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\gson\gson-2.1-javadoc.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\gson\gson-2.1-sources.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\reference</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\reference\src</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\reference\src\mockito-all-1.9.0-sources.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\reference\src\mockito-core-1.9.0-sources.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\reference\junit-4.10.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\reference\mockito-all-1.9.0.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\reference\hamcrest-core-1.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\freemarker.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\shipped</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\shipped\joda-time-2.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\commons-fileupload-1.2.2.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa\derbyclient.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa\derbynet.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa\javax.persistence_2.0.4.v201112161009.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa\org.eclipse.persistence.nosql_2.4.1.v20121003-ad44345.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa\derby.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa\eclipselink-javadocs.zip</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jpa\eclipselink.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\joda-time-2.0.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-http-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-servlet-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-jndi-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-websocket-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-client-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-webapp-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp\javax.servlet.jsp.jstl-1.2.0.v201105211821.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp\com.sun.el-2.2.0.v201108011116.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp\org.apache.jasper.glassfish-2.2.2.v201112011158.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp\org.eclipse.jdt.core-3.7.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp\javax.servlet.jsp-2.2.0.v201112011158.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp\javax.el-2.2.0.v201108011116.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jsp\org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-rewrite-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-servlets-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jndi</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jndi\javax.activation-1.1.0.v201105071233.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jndi\javax.mail.glassfish-1.4.1.v201005082020.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-plus-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-jmx-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-xml-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jta</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jta\javax.transaction-1.1.1.v201105210645.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\monitor</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\monitor\jetty-monitor-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-annotations-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-io-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\annotations</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\annotations\javax.annotation-1.1.0.v201108011116.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\annotations\org.objectweb.asm-3.1.0.v200803061910.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\ext</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\ext\.donotdelete</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-deploy-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-ajp-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\servlet-api-3.0.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-policy-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-overlay-deployer-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\policy</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\policy\jetty-work.policy</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\policy\temp-dirs.policy</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\policy\jetty.policy</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\policy\jetty-jmx.policy</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\policy\global.policy</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\policy\jetty-start.policy</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-continuation-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-security-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-util-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jetty\jetty-server-8.1.1.v20120215.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\http-client</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\http-client\commons-logging-1.1.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\http-client\httpclient-cache-4.1.3.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\http-client\httpcore-4.1.4.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\http-client\commons-codec-1.4.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\http-client\httpmime-4.1.3.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\http-client\httpclient-4.1.3.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jackson-annotations-2.1.0.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\oauth-server-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jackson-xc-1.9.2.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jackson-jaxrs-1.9.2.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jackson-mapper-asl-1.9.2.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jaxb-api-2.2.4.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jaxb-impl-2.2.4-1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jsr311-api-1.1.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\mimepull-1.3.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-spring-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\asm-3.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-client-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\mail-1.4.4.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-json-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jettison-1.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\oauth-signature-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-freemarker-1.16.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-simple-server-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-guice-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-server-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\stax-api-1.0-2.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jackson-core-asl-1.9.2.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-atom-abdera-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-multipart-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\activation-1.1.1.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-apache-client-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jackson-core-2.1.0.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-servlet-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jackson-databind-2.1.0.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\oauth-client-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-bundle-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\jersey\jersey-core-1.14.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\cron4j-2.2.5.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\commons-io-2.1-sources.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\mail.jar</PATH>
+            <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\src</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\src\junit-4.10-sources.jar</PATH>
+            <PATH vcs="svn" revision="855">D:\workspace\DLIDownloader\svn_projects\PowerManager\trunk\lib\src\joda-time-2.1-sources.jar</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Deleted" />
+            <option name="myStatusName" value="Deleted" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="true" />
+            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Restored" />
+            <option name="myStatusName" value="Will be restored" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="RESTORED" />
+          </FILE-GROUP>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Modified" />
+          <option name="myStatusName" value="Modified" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MODIFIED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Skipped" />
+          <option name="myStatusName" value="Skipped" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SKIPPED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with conflicts" />
+          <option name="myStatusName" value="Will be merged with conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with tree conflicts" />
+          <option name="myStatusName" value="Merged with tree conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with property conflicts" />
+          <option name="myStatusName" value="Will be merged with property conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged" />
+          <option name="myStatusName" value="Will be merged" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Not in repository" />
+          <option name="myStatusName" value="Not in repository" />
+          <option name="mySupportsDeletion" value="true" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UNKNOWN" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally added" />
+          <option name="myStatusName" value="Locally added" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_ADDED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally removed" />
+          <option name="myStatusName" value="Locally removed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_REMOVED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Switched" />
+          <option name="myStatusName" value="Switched" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SWITCHED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Externals" />
+          <option name="myStatusName" value="Externals" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="external" />
+          <PATH vcs="svn" revision="UNDEFINED">D:\workspace\DLIDownloader\svn_projects</PATH>
+        </FILE-GROUP>
+      </UpdatedFiles>
+    </UpdateInfo>
+  </component>
+  <component name="RunManager" selected="Application.TestJsoup">
+    <configuration default="false" name="DLIWindow" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.shunya.dli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.shunya.dli.DLIWindow" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DLIDownloader" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestJsoup" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.shunya.dli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.shunya.dli.TestJsoup" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DLIDownloader" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.DLIWindow" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestJsoup" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestJsoup" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DLIWindow" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="true" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\Munish\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\DLIDownloader" />
+          <option name="myCopyRoot" value="D:\workspace\DLIDownloader" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\DLIDownloader\.idea" />
+          <option name="myCopyRoot" value="D:\workspace\DLIDownloader\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\DLIDownloader" />
+          <option name="myCopyRoot" value="D:\workspace\DLIDownloader" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39978677" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21357615" sideWeight="0.6705757" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16335541" sideWeight="0.6705757" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Tasks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="DLI Downloader" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="removing images" />
+    <MESSAGE value="DLI Downloader" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/images/dli.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/RunningTaskTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="0" selection-start="3596" selection-end="3596" vertical-scroll-proportion="0.028192371">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/InteractiveTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="46" selection-end="46" vertical-scroll-proportion="0.056384742">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/DLIDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="33" selection-start="6174" selection-end="6174" vertical-scroll-proportion="0.5538972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/DownloadObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="11" selection-start="72" selection-end="72" vertical-scroll-proportion="0.08457711">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/HttpDownloadWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="30" selection-start="755" selection-end="755" vertical-scroll-proportion="0.4792703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PunterGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="16" selection-start="2209" selection-end="2209" vertical-scroll-proportion="-3.3366227" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar!/org/jsoup/select/Elements.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="165" selection-end="165" vertical-scroll-proportion="0.16601562" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar!/META-INF/maven/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="8" selection-start="2530" selection-end="2530" vertical-scroll-proportion="0.16390729">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/DLIWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="123" selection-start="5854" selection-end="5854" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#6731#6948#0" expanded="true" />
+            <element signature="e#6933#6934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/TiffToPDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="3" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="80" selection-start="2406" selection-end="2406" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/shunya/dli/BarCodeInterpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="25" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/shunya/dli/TiffToPDFTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/shunya/dli/TapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="21" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0745614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DLIDownloader</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.itextpdf:itextpdf:5.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
